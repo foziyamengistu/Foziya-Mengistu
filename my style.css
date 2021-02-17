@@ -1,0 +1,135 @@
+body {
+  background-image:url(pic12.jpg); height: fit-content;
+  background-size: cover;
+  background-position: center;
+    width: 100%;
+    
+    padding-top: 2%;
+  }
+#mainheader {
+    background-image: url(pic1.jpg);
+    min-height:200px;
+    background-position: center right;
+    text-align: center;
+    padding: 5%;
+   margin-bottom: 30px;
+}
+.container-1 div{border: 1px #ccc solid; padding:5%;}
+.box-0{ flex: 1; order: 1;}
+.box-1{ flex: 1;  order: 2;}
+#bg{
+  background-image: url(pic11.jpg);
+   height: fit-content;
+  background-size: cover;
+  background-position: center;
+    width: 100%;
+    
+    padding-top: 2%;
+}
+#conts{
+  padding: 15%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+ 
+  color: aliceblue;
+}
+#conts h1{
+  background-color: black;
+}
+#conts h2{
+  background-color: black;
+}
+#conts h3{
+  background-color: black;
+}
+#conts p{
+  font-style: normal;
+  background-color: rgb(230, 220, 220);
+  color: black;
+}
+#container{
+  background-color: rgb(252, 244, 244);
+  padding: 5%;
+padding-top: 6%;
+text-align: justify;
+}
+#container h1{
+  
+  background-color: black;
+   color: cornsilk;
+}
+
+  p {
+    color: black;
+    text-align:justify;
+  }
+
+  .button {
+    text-decoration: none;
+    color: black;
+    font-style:italic;
+    font-size: 15pt;
+    background-size: 100%;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 1%;
+  }
+  .button:hover {
+    color: red;
+    background-color: black;
+  }
+#story1{
+  display: flexbox;
+  padding: 10%;
+}
+.box-0 {
+  flex: 1;
+  order: 1;
+}
+.box-1 {
+  flex: 1;
+  order: 2;
+}
+
+
+#mainfooter{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 0%;
+
+}
+#mainfooter p{
+  color: aliceblue;
+  padding-top: 0%;
+}
+#navfoot li{
+  display: inline;
+  padding-top: 5%;
+  padding-right: 15%;
+}
+#navfoot a{
+    text-decoration: none;
+    font-size: 20px;
+
+}
+.buttonf {
+  background-color: black;
+  color: azure;
+  font-style: italic;
+  padding: 0%;
+}
+.buttonf:hover{
+  color: red;
+    background-color: black;
+}
+
+.box-x{
+  padding: 4%;
+  background-color:none;
+}
+#hed{
+  background-color: black;
+  color: bisque;
+  text-align: center;
+  padding: 3%;
+}
